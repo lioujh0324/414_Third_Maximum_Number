@@ -1,7 +1,7 @@
 # 414_Third_Maximum_Number
 The problem statment : 
 
-Given integer array  nums , return the third maximum number in this array. If the third maximum does not exist, return the maximum number.
+Given integer array "nums", return the third maximum number in this array. If the third maximum does not exist, return the maximum number.
 
 Example 1:
 
